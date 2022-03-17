@@ -1,2 +1,2 @@
 # Sensor-Network-Synthesis
-Course project for EC ENGR 134 (Fall 2022): Graph Theory.
+Repository contains code for the python course project of EC ENGR 134: Graph Theory (taken Fall 2022 with Prof. Fragouli), which was completed with the help of my teammate Vincent Yeh. Part 1 of the project deals with optimal sensor placement, balancing the tradeoff between connectivity and coverage. Part 2 of the project deals with optimal sensor placement paths given a particular sensor network. Our algorithm performed well enough on Part 1 that it was chosen as the sensor location placement for Part 2 for the entire course.
